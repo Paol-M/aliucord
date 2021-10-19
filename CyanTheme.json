@@ -1,8 +1,9 @@
 {
     "manifest": {
         "author": "Paol#7272",
-        "version": "1.0.0",
-        "name": "Dark Cyan"
+        "name": "Dark Cyan",
+        "version": "0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/CyanTheme.json"
     },
     "background": {},
     "fonts": {},
@@ -19,11 +20,11 @@
         "brand_new_560": -13222846,
         "primary_dark_630": -13485244,
         "primary_dark_800": -13485244,
-        "primary_dark_660": -13485244,
         "link": -12867161,
         "uikit_btn_bg_color_selector_red": -4763311,
         "uikit_settings_item_text_color_light": -12692116,
-        "chat_send_btn_bg_light": -3803660
+        "chat_send_btn_bg_light": -3803660,
+        "primary_dark_660": -13485244
     },
     "drawable_tints": {
         "ic_mobile": -12867161,
