@@ -3,7 +3,8 @@
         "author": "Paol#7272",
         "version": "1.0.0",
         "license": "public domain",
-        "name": "yellow"
+        "name": "yellow",
+        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/yellow.json"
     },
     "background": {},
     "fonts": {},
