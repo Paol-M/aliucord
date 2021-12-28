@@ -1,9 +1,10 @@
 {
     "manifest": {
-        "author": "Paol#7272",
+        "author": "paol#7272",
         "version": "1.0",
         "license": "public domain",
-        "name": "Black x Blue"
+        "name": "Black x Blue",
+        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/Black%20x%20Blue\/theme"
     },
     "background": {},
     "fonts": {},
@@ -23,7 +24,6 @@
         "uikit_settings_item_text_color_light": -13611699,
         "uikit_btn_bg_color_selector_red": -2075806,
         "uikit_btn_bg_color_selector_green": -14829159,
-        "premium_guild_blue": -1766645,
         "premium_guild_blue_500": -4893098,
         "brand_new_500": -14829159,
         "primary_700": -14665929
@@ -32,8 +32,7 @@
         "ic_status_dnd_16dp": -2075806,
         "ic_status_idle_16dp": -13220,
         "ic_mobile": -14829159,
-        "ic_group_join": -14829159,
-        "ic_slash_command_24dp": -65536
+        "ic_group_join": -14829159
     },
     "raws": {}
 }
