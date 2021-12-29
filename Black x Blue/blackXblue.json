@@ -4,8 +4,8 @@
         "version": "1.0",
         "license": "public domain",
         "name": "Black x Blue",
-        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/Black%20x%20Blue\/theme"
-    },
+        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/Black%20x%20Blue\/blackXblue.json"
+},
     "background": {},
     "fonts": {},
     "simple_colors": {
